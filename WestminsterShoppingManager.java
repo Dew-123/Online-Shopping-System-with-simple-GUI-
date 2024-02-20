@@ -46,7 +46,7 @@ public class WestminsterShoppingManager implements ShoppingManager, Serializable
         }
     }
 
-    //Print the sorted list of products to the console
+    //Print the sorted list of products to console
     @Override
     public void printSystemProductList() {
         System.out.println("***** Product List *****");
